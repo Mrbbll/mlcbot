@@ -11,6 +11,7 @@ from .config import Config
 from . import status
 from . import command
 from . import bilibili
+from . import kick
 from datetime import datetime
 import time
 import mcstatus
